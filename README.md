@@ -2,7 +2,7 @@
 
 ## Description
 
-This project shows an example of how the Sega Mega CD can be used to view 512 colour images based on FantomBitmap.  The code includes additional the ability to view LZ4W compressed DCI3 images (under 64KiB).
+This project shows an example of how the Sega Mega CD can be used to view 512 colour images based on FantomBitmap.  The code includes the additional ability to view LZ4W compressed DCI3 images (under 64KiB).
 
 ## Features
 - Fantom Bitmap 512 colour
