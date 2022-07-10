@@ -4,9 +4,7 @@
 
 This project shows an example of how the Sega Mega CD can be used to view 512 colour images based on FantomBitmap.  The code includes the additional ability to view LZ4W compressed DCI3 images (under 64KiB).
 
-To convert images under VS Code in Terminal Prompt by using the command:  
-
-**./directconvert -i3 input output **
+To convert images under VS Code in Terminal Prompt by using the command:  ./directconvert -i3 input output
 
 Example: **./directconvert -i3 Sonic.png Sonic.dci3**
 
