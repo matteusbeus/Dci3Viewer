@@ -11,6 +11,7 @@
 *.iso
 *.cue
 *.elf
+*.png
 .github
 .vscode
 .cd
